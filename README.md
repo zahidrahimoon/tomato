@@ -75,3 +75,9 @@ npm start server
 
 - [ ] Remember to include your Database in db.js and your Stripe Secret Key in .env but donot push on github
 
+## Conclusion
+
+This is my first project using the MERN stack, and while it's not fully functional yet and still has more work to be done, I assure you will appreciate my dedication and effort! 😊
+
+Let's connect on [LinkedIn](https://linkedin.com/in/zahidrahimoon) and [GitHub](https://github.com/zahidrahimoon) to follow my journey. 🚀
+
