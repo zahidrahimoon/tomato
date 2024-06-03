@@ -16,6 +16,8 @@ Tomato is a MERN (MongoDB, Express.js, React, Node.js) stack project that includ
     <img alt="Language" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
   </p>
 
+## DEMO 
+![Demo](https://github.com/zahidrahimoon/tomato/blob/master/tomato-website.png)
 
 ## Features
 
