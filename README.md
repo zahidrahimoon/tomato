@@ -1,6 +1,9 @@
 <h1 align="center">Tomato Delivery</h1>
+
+Tomato is a MERN (MongoDB, Express.js, React, Node.js) stack project that includes a sign-in/sign-up page with authentication, a frontend with dark and light themes, a backend with MongoDB database integration, and a payment system using Stripe. It also features an admin panel with dark and light themes.
   
-  
+ ## Technologies Used 
+ 
   <p align="center">
     <img alt="Language" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img alt="Language" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -15,8 +18,16 @@
 
 
 
+## Features
 
-# Getting Started
+- Sign-in/sign-up functionality with authentication
+- Frontend with dark and light themes
+- Backend with MongoDB database integration
+- Payment system using Stripe
+- Admin panel with dark and light themes
+
+
+## Getting Started
 
 - First of all, you will need to create a database with Atlas MongoDB.
 - Also have a Stripe account so you can get your SECRET STRIPE KEY.
@@ -27,7 +38,7 @@
 - Stripe Tutorial - 7:49:55.
 
 
-# Installation
+## Installation
 
 <h2>How to install/setup the Front-End</h2>
 
