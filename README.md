@@ -17,7 +17,6 @@ Tomato is a MERN (MongoDB, Express.js, React, Node.js) stack project that includ
   </p>
 
 
-
 ## Features
 
 - Sign-in/sign-up functionality with authentication
