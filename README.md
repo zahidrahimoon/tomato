@@ -21,11 +21,11 @@ Tomato is a MERN (MongoDB, Express.js, React, Node.js) stack project that includ
 
 ## Features
 
-- Sign-in/sign-up functionality with authentication
-- Frontend with dark and light themes
-- Backend with MongoDB database integration
-- Payment system using Stripe
-- Admin panel with dark and light themes
+- Sign-in/sign-up functionality with authentication.
+- Frontend with dark and light themes.
+- Backend with MongoDB database integration.
+- Payment system using Stripe.
+- Admin panel with dark and light themes.
 
 
 ## Getting Started
