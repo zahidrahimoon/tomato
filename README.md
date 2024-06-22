@@ -73,7 +73,7 @@ npm run dev
 npm start server
 ```
 
-- [ ] Remember to include your Database in db.js and your Stripe Secret Key in .env but donot push on github
+- [ ] Remember to include your Database in db.js and your Stripe Secret Key in .env but donot push on github.
 
 ## Conclusion
 
