@@ -67,7 +67,7 @@ npm run dev
    
 <h2>How to install/setup the Backend</h2>
 
-> Open a terminal in VS Code and go into the backend folder and then run
+> Open a terminal in VS Code and go into the backend folder and then run.
 
 ```
 npm start server
