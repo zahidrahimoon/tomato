@@ -1,7 +1,7 @@
 <h1 align="center">Tomato Delivery</h1>
 
 Tomato is a MERN (MongoDB, Express.js, React, Node.js) stack project that includes a sign-in/sign-up page with authentication, a frontend with dark and light themes, a backend with MongoDB database integration, and a payment system using Stripe. It also features an admin panel with dark and light themes.
-  
+
  ## Technologies Used 
  
   <p align="center">
